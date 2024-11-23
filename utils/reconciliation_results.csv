@@ -1,0 +1,8 @@
+Collection_Name,MongoDB_Total_Count,PostgreSQL_Total_Count,MongoDB_Incremental_Count,PostgreSQL_Incremental_Count,Duplicates?,Normalization_Success?,Split_Columns_Success?
+genres,31,31,2,2,No,,
+actors,4009,4009,3,3,No,,Yes
+directors,551,551,0,0,No,,Yes
+reviews,2002,2002,0,0,No,,Yes
+production_companies,102,102,0,0,No,,
+awards,102,102,0,0,No,,
+movies,1002,1002,0,0,No,Yes,
